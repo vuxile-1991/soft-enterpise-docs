@@ -1,0 +1,38 @@
+chapters:
+- chapters:
+  - chapters: []
+    folderName: main
+    name: Puzzle-cloud-contract
+    path: puzzle-cloud-contract.md
+    sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+    type: MARKDOWN_CHAPTER
+  folderName: ''
+  name: Puzzle Cloud
+  path: ''
+  sourceURL: ''
+  type: MANUAL_CHAPTER
+- chapters:
+  - chapters: []
+    folderName: main
+    name: soft-enterpise-docs
+    path: README.md
+    sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+    type: MARKDOWN_CHAPTER
+  folderName: ''
+  name: Read me
+  path: ''
+  sourceURL: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  mobile: +381 64 234 5457
+  name: Ivan Micic
+  linkedin: hitps://www.ivan-micic.linkedin.com
+  position: QA engineer
+  File Name: Contract_doc
+  residence: Kragujevac
+  email: mail@gmail.com
+folderName: null
+name: ROOT
+path: null
+sourceURL: null
+type: null
