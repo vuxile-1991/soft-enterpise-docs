@@ -1,0 +1,57 @@
+chapters:
+- chapters:
+  - chapters: []
+    folderName: main
+    name: Puzzle-cloud-contract
+    path: puzzle-cloud-contract.md
+    sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+    type: MARKDOWN_CHAPTER
+  - chapters:
+    - chapters: []
+      folderName: main
+      name: CV
+      path: CV.md
+      sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+      type: MARKDOWN_CHAPTER
+    - chapters:
+      - chapters: []
+        folderName: main
+        name: Puzzle-cloud-contract
+        path: puzzle-cloud-contract.md
+        sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+        type: MARKDOWN_CHAPTER
+      folderName: ''
+      name: READ ME
+      path: ''
+      sourceURL: ''
+      type: MANUAL_CHAPTER
+    folderName: ''
+    name: CV
+    path: ''
+    sourceURL: ''
+    type: MANUAL_CHAPTER
+  folderName: ''
+  name: Privacy
+  path: ''
+  sourceURL: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-author-email: mycompany@gmail.com
+  doc-type: Privacy
+  doc-subtitle: Contract
+  doc-title: Puzzle Cloud
+  doc-company: Soft Enterprise
+  doc-company-url: https://www.mycompanuy.com
+  doc-version: 1.0.1
+  ' reference-doc-title ': https://mycompany.com/subdomain
+  doc-release-date: 30.07.2022.
+  doc-change-description: Description
+  File Name: Advanced_doc
+  doc-author-name: Vukasin
+  ' reference-doc-filename ': puzzle-cloud
+  doc-id: '1'
+folderName: null
+name: ROOT
+path: null
+sourceURL: null
+type: null
