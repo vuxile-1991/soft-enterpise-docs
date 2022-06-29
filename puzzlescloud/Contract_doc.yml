@@ -23,6 +23,18 @@ chapters:
   path: ''
   sourceURL: ''
   type: MANUAL_CHAPTER
+- chapters:
+  - chapters: []
+    folderName: main
+    name: CV
+    path: CV.md
+    sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+    type: MARKDOWN_CHAPTER
+  folderName: ''
+  name: This is CV doc
+  path: ''
+  sourceURL: ''
+  type: MANUAL_CHAPTER
 fieldValues:
   mobile: +381 64 234 5457
   name: Ivan Micic
