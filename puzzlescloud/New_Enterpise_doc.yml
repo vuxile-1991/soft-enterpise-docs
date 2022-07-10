@@ -1,0 +1,38 @@
+chapters:
+- chapters: []
+  folderName: main
+  name: CV
+  path: CV.md
+  sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: soft-enterpise-docs
+  path: README.md
+  sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: Puzzle-cloud-contract
+  path: puzzle-cloud-contract.md
+  sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: About
+  path: Classified document.md
+  sourceURL: https://github.com/vuxile-1991/soft-enterpise-docs
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  mobile: ''
+  name: ''
+  linkedin: ''
+  position: ''
+  File Name: New_Enterpise_doc.docx
+  residence: ''
+  email: ''
+folderName: null
+name: ROOT
+path: null
+sourceURL: null
+type: null
